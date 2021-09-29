@@ -1,0 +1,8 @@
+p{
+  background-color: black;
+  color: white;
+}
+#truck{
+   color: blue;
+   transform: rotateY(180deg);
+}
